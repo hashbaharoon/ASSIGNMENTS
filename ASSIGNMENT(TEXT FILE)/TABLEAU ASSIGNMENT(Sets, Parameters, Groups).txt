@@ -1,0 +1,10 @@
+1. Parameters can be used in?
+
+ANS.1. Parameters can be used from filter shelf,they can be used with refernece lines,they can be used in calculated fields,parameters can also be used with set.
+
+2. What are the different ways to create a Parameter?
+ANS. The different ways to create a Parameter are 
+  1)In the Data pane, click the drop-down arrow in the upper right corner and select Create Parameter.In the Create Parameter dialog box,enter the values.
+  2)Parameter can be created from filter.
+  3)Parameter can be created from set.
+ New parameter created can be used in calculated field as well.
